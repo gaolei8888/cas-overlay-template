@@ -1,5 +1,5 @@
-CAS Overlay Template
-============================
+CAS Overlay for Meike Media Use 
+===============================
 
 Generic CAS maven war overlay to exercise the latest versions of CAS. This overlay could be freely used as a starting template for local CAS maven war overlays. The CAS services management overlay is available [here](https://github.com/Jasig/cas-services-management-overlay).
 
@@ -9,7 +9,7 @@ Generic CAS maven war overlay to exercise the latest versions of CAS. This overl
 ```
 
 # Requirements
-* JDK 1.7+
+* JDK 1.8+
 
 # Configuration
 
